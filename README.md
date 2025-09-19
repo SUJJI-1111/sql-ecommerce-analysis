@@ -45,16 +45,6 @@ This mirrors **real-world workflows** for data analysts in the Ecommerce domain.
 
 ---
 
-## 💡 Interview Prep Questions
-1. How do you join multiple tables in SQL?  
-2. What is the difference between `WHERE` and `HAVING`?  
-3. How do indexes improve query performance?  
-4. Why use views in SQL?  
-5. How would you calculate revenue per customer or per country?  
-6. How do you handle above-average filtering with subqueries?  
-
----
-
 ## 🔗 Dataset
 The full dataset (~40 MB, 500k+ rows) is available on Kaggle:  
 [E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
